@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guatapé</string>
+    <string name="titulohomehoteles">Hotéis em Guatapé</string>
+    <string name="Descrippcionhomehoteles">Em nossa cidade você encontrará acomodações desde 35.000 COP até luxuosas cabines equipadas com todos os elementos para
+        um descanso
+    </string>
+    <string name="botonhomehoteles">ver hotéis</string>
+    <string name="titulohomerestaurante">Restaurantes em Guatapé</string>
+    <string name="Descripcionhomerestaurante">Em nossa cidade você pode facilmente encontrar uma grande variedade de restaurantes a preços favoráveis, bom serviço.
+    e excelente qualidade do prato</string>
+    <string name="botonRestaurantes">ver Restaurantes</string>
+    <string name="titulohomesitios">Pontos turísticos em Guatapé</string>
+    <string name="Descripcionhomesitios">
+Em nossa cidade você pode encontrar diversos locais turísticos, desde atrações até lugares muito novos com histórias.</string>
+    <string name="botonsitios">ver sites</string>
+
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Espanhol</string>
+    <string name="menuopcion3">Portugues</string>
+    <string name="menuopcion4">análise</string>
+    <string name="menuopcion5">Sobre</string>
+    <string name="tituloresena">Análise</string>
+    <string name="descripcionresena">Em 1991, durante a presidência de César Gaviria, as águas da barragem diminuíram. Houve racionamento de energia. Dos morros próximos era possível avistar uma parte das ruínas que se destacava da lama e das poças.
+         O povo de Peñol pôde conhecer o território onde ficava sua casa.
+Esta velha geração mantém viva a sua história. Eles tentam garantir que os turistas não visitem a região apenas para passear no fim de semana e que o passado não se afogue nas ruínas de suas casas.</string>
+    <string name="tituloacercade">sobre:</string>
+    <string name="descripcionacercade">Meu nome é Laura Usuga Martinez, estudante de desenvolvimento de software na cidade de Medellín.</string>
+    <string name="homehoteles">hoteis: </string>
+    <string name="homerestaurantes">restaurantes:</string>
+    <string name="homesitiosturisticos">sitios turisticos: </string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guatapé</string>
+
+    <string name="titulohomehoteles">Hotels in Guatapé</string>
+    <string name="Descrippcionhomehoteles">In our town you will find accommodation from 35,000 COP to luxurious cabins equipped with all the elements to
+        a break
+    </string>
+    <string name="botonhomehoteles">See hotels</string>
+    <string name="titulohomerestaurante">Restaurants in guatapé</string>
+    <string name="Descripcionhomerestaurante">In our town you can easily find a wide variety of restaurants at favorable prices, good service.
+    and excellent quality of the dish</string>
+    <string name="botonRestaurantes">see Restaurants</string>
+    <string name="titulohomesitios">Tourist sites in Guatapé</string>
+    <string name="Descripcionhomesitios">In our town you can find different tourist sites from attractions to very new places with stories.</string>
+    <string name="botonsitios">see sities</string>
+
+    <string name="menuopcion1">English</string>
+    <string name="menuopcion2">Spanish</string>
+    <string name="menuopcion3">Portuguese</string>
+    <string name="menuopcion4">Review</string>
+    <string name="menuopcion5">About</string>
+    <string name="tituloresena">Review</string>
+    <string name="descripcionresena">In 1991, during the presidency of César Gaviria, the waters of the dam decreased. There was energy rationing. From the nearby hills it was possible to see a part of the ruins that stood out from the mud and puddles.
+         The people of Peñol were able to see the territory where their home once stood.
+This old generation keeps its history alive. They try to ensure that tourists not only visit the area to walk on the weekend and that the past does not drown alongside the ruins of their homes..</string>
+    <string name="tituloacercade">About:</string>
+    <string name="descripcionacercade">My name is Laura Usuga Martinez, software development student in the city of Medellin.</string>
+<string name="homehoteles">hotels: </string>
+    <string name="homerestaurantes">restaurants:</string>
+    <string name="homesitiosturisticos">tourist sities : </string>
+</resources>

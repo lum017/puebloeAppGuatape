@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Guatapé</string>
+    <string name="titulohomehoteles">Hoteles en Guatapé</string>
+    <string name="Descrippcionhomehoteles">En nuestro pueblo encontraras alojamientos desde 35000 COP hasta lujosas cabañas dotadas de todos los elementos para
+        un descanso
+    </string>
+    <string name="botonhomehoteles">ver hoteles</string>
+    <string name="titulohomerestaurante">Restaurantes en guatapé</string>
+    <string name="Descripcionhomerestaurante">En nuestro pueblo podras encontrar con facilidad gran variedad de restaurantes a precios favorables,buen servicio
+    y una excelente calidad del plato</string>
+    <string name="botonRestaurantes">ver Restaurantes</string>
+    <string name="titulohomesitios">Sitios turisticos en guatapé</string>
+    <string name="Descripcionhomesitios">En nuestro pueblo podras encontrar diferentes sitios turisticos desde atracciones hasta lugares demasiado novedoso con historias</string>
+    <string name="botonsitios">ver sitios</string>
+
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Español</string>
+    <string name="menuopcion3">Portugues</string>
+    <string name="menuopcion4">Reseña</string>
+    <string name="menuopcion5">Acerca de</string>
+    <string name="tituloresena">Reseña</string>
+    <string name="descripcionresena">En 1991, en la presidencia de César Gaviria, las aguas de la represa bajaron. Hubo un racionamiento de energía. Desde los cerros cercanos se logró ver una parte de las ruinas que sobresalían del barro y los charcos.
+        Los peñolenses pudieron ver el territorio en el que un día estuvo su hogar.
+Esta vieja generación mantiene viva su historia. Tratan que los turistas no solo visiten la zona para pasear el fin de semana y que el pasado no se ahogue junto las ruinas de sus hogares.</string>
+    <string name="tituloacercade">Acerca de:</string>
+    <string name="descripcionacercade">mi nombre es laura usuga Martinez estudiante de desarrollo de software en la ciudad de medellin</string>
+    <string name="homehoteles">hoteles: </string>
+    <string name="homerestaurantes">restaurantes:</string>
+    <string name="homesitiosturisticos">sitios turisticos: </string>
+</resources>
